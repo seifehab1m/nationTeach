@@ -1,0 +1,26 @@
+export let usersData=[
+    {
+        id:1,
+        firstName:"seif",
+        lastName:"ehab",
+        age:25
+    },
+    {
+        id:2,
+        firstName:"mohamed",
+        lastName:"ahmed",
+        age:15
+    },
+    {
+        id:3,
+        firstName:"ayman",
+        lastName:"ehab",
+        age:25
+    },
+    {
+        id:4,
+        firstName:"ramy",
+        lastName:"ehab",
+        age:25
+    },
+]
